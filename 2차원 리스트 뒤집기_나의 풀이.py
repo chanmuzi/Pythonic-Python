@@ -10,4 +10,4 @@ def solution(mylist):
             # 행과 열을 반대로 추가
             answer[i].append(mylist[j][i])
  
-    return answer
+    return answer #정답 반환
